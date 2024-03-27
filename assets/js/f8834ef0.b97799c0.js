@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenglish_42=self.webpackChunkenglish_42||[]).push([[1397],{3054:e=>{e.exports=JSON.parse('{"permalink":"/english42/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

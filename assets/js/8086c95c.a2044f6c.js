@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenglish_42=self.webpackChunkenglish_42||[]).push([[9825],{9807:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/english42/blog/tags/hola","allTagsPath":"/english42/blog/tags","count":1,"unlisted":false}')}}]);
